@@ -1,0 +1,11 @@
+start 10
+c add areg a
+sub breg '1'
+mul areg '1'
+d mul creg '3'
+a dc 10
+b ds 20
+ltorg
+add breg b
+mul areg '1'
+end

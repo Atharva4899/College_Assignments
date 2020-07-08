@@ -1,0 +1,17 @@
+add 1 is
+sub 2 is
+mul 3 is
+div 4 is
+mover 5 is
+movem 6 is
+bc 7 is
+comp 8 is
+print 9 is
+read 10 is
+start 1 ad
+end 2 ad
+equ 3 ad
+org 4 ad
+ltorg 5 ad
+ds 1 dd
+dc 2 dd
